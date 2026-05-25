@@ -23,6 +23,7 @@
 |------|------|----------|
 | Odoo Developer | Odoo, Python | 1 Month |
 | Next.js Developer | Next.js, JavaScript | 3+ Months |
+| Python Developer | Python | 6 Months |
 ---
 ## 🛠️ Tech Stack & Skills
 

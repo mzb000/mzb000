@@ -54,6 +54,8 @@
 | 📊 Dashboard | Interactive data visualization dashboard | Python, Plotly, Next.js |
 | 📧 Auto Email Reply | Automated email response system | Python |
 | 🎮 Shooting Game | Browser-based shooting game | JavaScript |
+| 🤖 LLM Extractor | AI-powered diagnostics & data extraction using LLMs | Python, Streamlit, AI |
+| 🌐 straight.edgesite.io | Edge-first marketing attribution platform | Python, FastAPI, Next.js |
 
 ---
 

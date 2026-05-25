@@ -11,12 +11,19 @@
 - 🎯 Aspiring **Data Scientist** & **AI Developer** from **Pakistan 🇵🇰**
 - 🐍 Currently mastering **Python, Machine Learning & Data Science**
 - 🤖 Built **AI Chatbots** and **interactive Dashboards**
-- 💼 **1 month professional experience** with **Odoo** & **Next.js**
+- 💼 **1 month professional experience** with **Odoo** at **Neomoment-AIOT**
+- 🚀 **3+ months professional experience** with **Next.js** at **Neomoment-AIOT**
+- 🏢 Currently associated with **Neomoment-AIOT**
 - 📊 Passionate about turning raw data into meaningful insights
 - 🌱 Always learning, always building — one project at a time
-
 ---
-
+## 💼 Experience
+### 🏢 Neomoment-AIOT
+| Role | Tech | Duration |
+|------|------|----------|
+| Odoo Developer | Odoo, Python | 1 Month |
+| Next.js Developer | Next.js, JavaScript | 3+ Months |
+---
 ## 🛠️ Tech Stack & Skills
 
 ### 🐍 Languages & Core

@@ -43,43 +43,47 @@
 
 ## ⚡ The Man Behind the Code
 
-```python
-#!/usr/bin/env python3
-# ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-#  👤  DEVELOPER PROFILE  —  mzb000
-# ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+<div align="center">
 
-class MuhammadZabiullah:
-
-    identity = {
-        "name"     : "Muhammad Zabiullah",
-        "alias"    : "mzb000",
-        "based_in" : "Pakistan 🇵🇰",
-        "email"    : "mzabiullah197@gmail.com",
-        "company"  : "Neomoment-AIOT",
-        "status"   : "🔥 Building & Learning — Never Stopping",
-    }
-
-    expertise = [
-        "🧠  Machine Learning & AI Development",
-        "📊  Data Science & Visualization",
-        "🤖  Chatbot & LLM Integration",
-        "⚡  FastAPI Backend Development",
-        "🌐  Next.js Full-Stack Apps",
-        "🛢️  Odoo ERP Customization",
-    ]
-
-    current_mission = "Turn raw data into beautiful insights 🔮"
-    life_motto      = "Code. Learn. Build. Repeat. 🚀"
-
-    def __repr__(self):
-        return f"<Developer: {self.identity['name']} | Always Building 🔥>"
-
-me = MuhammadZabiullah()
-print(me)
-# → <Developer: Muhammad Zabiullah | Always Building 🔥>
+```
+╔══════════════════════════════════════════════════════════════════════════╗
+║                                                                          ║
+║    ███╗   ███╗███████╗██████╗  ██████╗  ██████╗ ██████╗                 ║
+║    ████╗ ████║╚══███╔╝██╔══██╗██╔═████╗██╔═████╗██╔══██╗                ║
+║    ██╔████╔██║  ███╔╝ ██████╔╝██║██╔██║██║██╔██║██║  ██║                ║
+║    ██║╚██╔╝██║ ███╔╝  ██╔══██╗████╔╝██║████╔╝██║██║  ██║                ║
+║    ██║ ╚═╝ ██║███████╗██████╔╝╚██████╔╝╚██████╔╝██████╔╝                ║
+║    ╚═╝     ╚═╝╚══════╝╚═════╝  ╚═════╝  ╚═════╝ ╚═════╝                 ║
+║                                                                          ║
+║         Muhammad Zabiullah  •  @mzb000  •  Pakistan 🇵🇰                  ║
+║                                                                          ║
+╠══════════════════════════════════════════════════════════════════════════╣
+║                                                                          ║
+║   root@mzb000:~$ whoami                                                  ║
+║   ▶  Aspiring Data Scientist & AI Developer 🚀                           ║
+║                                                                          ║
+║   root@mzb000:~$ cat skills.log                                          ║
+║   ▶  🧠  Machine Learning & AI Development                               ║
+║   ▶  📊  Data Science & Visualization                                    ║
+║   ▶  🤖  Chatbot & LLM Integration                                       ║
+║   ▶  ⚡  FastAPI Backend Development                                      ║
+║   ▶  🌐  Next.js Full-Stack Apps                                         ║
+║   ▶  🛢️  Odoo ERP Customization                                          ║
+║                                                                          ║
+║   root@mzb000:~$ cat status.conf                                         ║
+║   ▶  🏢  Company   →  Neomoment-AIOT                                     ║
+║   ▶  📧  Email     →  mzabiullah197@gmail.com                            ║
+║   ▶  🟢  Status    →  Open to Work & Collaboration                       ║
+║                                                                          ║
+║   root@mzb000:~$ echo $LIFE_MOTTO                                        ║
+║   ▶  "Code. Learn. Build. Repeat. 🚀"                                    ║
+║                                                                          ║
+║   root@mzb000:~$ █                                                       ║
+║                                                                          ║
+╚══════════════════════════════════════════════════════════════════════════╝
 ```
 
+</div>
 ---
 
 ## 🛸 Tech Universe

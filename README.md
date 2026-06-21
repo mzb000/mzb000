@@ -90,9 +90,5 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer&animation=twinkling&stroke=6E40C9" />
 
-*"The goal is to turn data into information, and information into insight."*
-
-**⭐ Star my repos if you find them useful! Let's connect and build something amazing together! 🚀**
-
 </div>
-](https://github.com/addyosmani/agent-skills)
+]

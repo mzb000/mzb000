@@ -41,51 +41,6 @@
 
 ---
 
-## ⚡ The Man Behind the Code
-
-<div align="center">
-
-```
-╔══════════════════════════════════════════════════════════════════════════╗
-║                                                                          ║
-║    ███╗   ███╗███████╗██████╗  ██████╗  ██████╗ ██████╗                 ║
-║    ████╗ ████║╚══███╔╝██╔══██╗██╔═████╗██╔═████╗██╔══██╗                ║
-║    ██╔████╔██║  ███╔╝ ██████╔╝██║██╔██║██║██╔██║██║  ██║                ║
-║    ██║╚██╔╝██║ ███╔╝  ██╔══██╗████╔╝██║████╔╝██║██║  ██║                ║
-║    ██║ ╚═╝ ██║███████╗██████╔╝╚██████╔╝╚██████╔╝██████╔╝                ║
-║    ╚═╝     ╚═╝╚══════╝╚═════╝  ╚═════╝  ╚═════╝ ╚═════╝                 ║
-║                                                                          ║
-║         Muhammad Zabiullah  •  @mzb000  •  Pakistan 🇵🇰                  ║
-║                                                                          ║
-╠══════════════════════════════════════════════════════════════════════════╣
-║                                                                          ║
-║   root@mzb000:~$ whoami                                                  ║
-║   ▶  Aspiring Data Scientist & AI Developer 🚀                           ║
-║                                                                          ║
-║   root@mzb000:~$ cat skills.log                                          ║
-║   ▶  🧠  Machine Learning & AI Development                               ║
-║   ▶  📊  Data Science & Visualization                                    ║
-║   ▶  🤖  Chatbot & LLM Integration                                       ║
-║   ▶  ⚡  FastAPI Backend Development                                      ║
-║   ▶  🌐  Next.js Full-Stack Apps                                         ║
-║   ▶  🛢️  Odoo ERP Customization                                          ║
-║                                                                          ║
-║   root@mzb000:~$ cat status.conf                                         ║
-║   ▶  🏢  Company   →  Neomoment-AIOT                                     ║
-║   ▶  📧  Email     →  mzabiullah197@gmail.com                            ║
-║   ▶  🟢  Status    →  Open to Work & Collaboration                       ║
-║                                                                          ║
-║   root@mzb000:~$ echo $LIFE_MOTTO                                        ║
-║   ▶  "Code. Learn. Build. Repeat. 🚀"                                    ║
-║                                                                          ║
-║   root@mzb000:~$ █                                                       ║
-║                                                                          ║
-╚══════════════════════════════════════════════════════════════════════════╝
-```
-
-</div>
----
-
 ## 🛸 Tech Universe
 
 <div align="center">
@@ -114,41 +69,6 @@
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-</div>
-
----
-
-## 💼 Experience Timeline
-
-<div align="center">
-
-```
-╔══════════════════════════════════════════════════════════════════╗
-║                  💼  PROFESSIONAL TIMELINE                       ║
-╠══════════════════════════════════════════════════════════════════╣
-║  🏢  Neomoment-AIOT                                              ║
-║  ├─ 🚀  Next.js Developer    [TypeScript · React]    3+ Months  ║
-║  └─ 🛢️  Odoo Developer       [Python · PostgreSQL]   1 Month    ║
-╚══════════════════════════════════════════════════════════════════╝
-```
-
-</div>
-
----
-
-## 🚀 Projects Hall of Fame
-
-<div align="center">
-
-| &nbsp; | Project | What It Does | Stack | 🔥 |
-|:---:|:---|:---|:---:|:---:|
-| 🤖 | **AI Chatbot** | Intelligent NLP-powered conversational assistant | Python · FastAPI | 🔥 |
-| 📊 | **MyCummins Dashboard** | Real-time data visualization & analytics engine | Python · Plotly · Next.js | 🔥 |
-| 📧 | **Auto Email Reply** | Smart email automation system | Python | ⚡ |
-| 🎮 | **Shooting Game** | Fast-paced browser action game | JavaScript | 🎯 |
-| 🧠 | **LLM Data Extractor** | AI diagnostics & data extraction with LLMs | Python · Streamlit · AI | 🔥 |
-| 🌐 | **straight.edgesite.io** | Edge-first marketing attribution platform | Python · FastAPI · Next.js | 💎 |
 
 </div>
 

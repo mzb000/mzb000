@@ -73,15 +73,6 @@
 </div>
 
 ---
-
-## 🏆 Trophy Cabinet
-
-<div align="center">
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=mzb000&theme=radical&no-frame=true&no-bg=true&margin-w=8&column=7" />
-</div>
-
----
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer&animation=twinkling&stroke=6E40C9" />
 
 </div>

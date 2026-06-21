@@ -74,25 +74,6 @@
 
 ---
 
-## 📊 GitHub Stats Dashboard
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=mzb000&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=6E40C9&icon_color=f1c40f&text_color=ffffff&count_private=true&include_all_commits=true" />
-<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=mzb000&theme=radical&hide_border=true&background=0d1117&stroke=6E40C9&ring=6E40C9&fire=f1c40f&currStreakLabel=6E40C9&sideLabels=6E40C9" />
-
-<br/>
-
-<img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mzb000&layout=donut-vertical&theme=radical&hide_border=true&bg_color=0d1117&title_color=6E40C9&text_color=ffffff&langs_count=8" />
-
-<br/>
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=mzb000&bg_color=0d1117&color=6E40C9&line=6E40C9&point=f1c40f&area=true&area_color=6E40C9&hide_border=true&custom_title=📈+Muhammad+Zabiullah's+Contribution+Graph" />
-
-</div>
-
----
-
 ## 🏆 Trophy Cabinet
 
 <div align="center">

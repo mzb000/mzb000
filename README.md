@@ -101,21 +101,6 @@
 
 ---
 
-## 🎯 2025 Goals Progress
-
-```
-🎯  Master Deep Learning           ███████░░░  70%
-🤖  Build 5 AI Projects            ██████░░░░  60%
-📊  Open Source Contributions      ████░░░░░░  40%
-🌐  Launch SaaS Product            ███░░░░░░░  30%
-📚  Read 12 Tech Books             █████░░░░░  50%
-🏆  Reach 100 GitHub Followers     ██░░░░░░░░  20%
-```
-
----
-
-<div align="center">
-
 ### 💬 Random Dev Quote
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true" width="80%" />

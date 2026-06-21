@@ -18,7 +18,7 @@
 <div align="center">
 
 <a href="https://github.com/mzb000">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=800&color=6E40C9&center=true&vCenter=true&multiline=false&random=false&width=700&height=50&lines=🐍+Python+%7C+ML+%7C+Data+Science+%7C+AI;🤖+Building+Intelligent+Systems...;📊+Turning+Data+into+Decisions...;🚀+One+Commit+at+a+Time+—+mzb000" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=800&color=6E40C9&center=true&vCenter=true&multiline=false&random=false&width=700&height=50&lines=🐍+Python+%7C+ML+%7C+Data+Science+%7C+AI;🤖+Building+Intelligent+Systems...;📊+Turning+Data+into+Decisions...;🚀+One+Commit+at+a+Time+—+mzb000"/>
 </a>
 
 <br/><br/>
